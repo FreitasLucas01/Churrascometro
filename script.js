@@ -17,9 +17,9 @@ function calc(){
     let drinkTotal = drinkPerson(duracao) * adultos + (400 / 2 * criancas);
 
     resultado.innerHTML = `<h3> Será necessário</h3>`
-    resultado.innerHTML +=`<p class="meet">${Math.round(Math.ceil(meetTotal)/1000)} kg de carne</p>` 
-    resultado.innerHTML += `<p class="beer">${Math.round(Math.ceil(beerTotal/355))} latas de cerveja</p>`
-    resultado.innerHTML += `<p class="soda">${Math.round(Math.ceil(drinkTotal)/2000)} garrafas de bebida</p>`
+    resultado.innerHTML +=`<p class="meet">${meetTotal/1000} kg de carne</p>` 
+    resultado.innerHTML += `<p class="beer">${Math.ceil(beerTotal/355)} latas de cerveja</p>`
+    resultado.innerHTML += `<p class="soda">${Math.ceil(drinkTotal/2000)} garrafas de bebida</p>`
 }
 
 function meetPerson(duracao){
