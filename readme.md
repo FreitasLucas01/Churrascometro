@@ -44,6 +44,7 @@
 <h2 id="projeto"> 💻 Projeto </h2>
 
 <p>Esse projeto foi criado com intuito de calcular a quantidade de bebidas alcoólicas, carnes e bebidas não alcoólicas para um churrasco por um determinado número de horas com um número determinado de adultos e crianças. O site tem como objetivo praticar conceitos de responsividade, eventos DOM e cálculos em Javascript, design moderno e afins. 
+
 Sitema para calcular a quantidade de comida e bebida necessária para um churrasco,
 com base nas informações seguintes:
 Carne - 400gr por pessoa + de 6horas - 650gr
