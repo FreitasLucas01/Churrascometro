@@ -10,7 +10,7 @@ function calc(){
     let criancas = inputCriancas.value;
     let duracao = inputDuracao.value;
 
-    let divResultado = document.querySelector("#resultado").style.display = "block";
+    document.querySelector("#resultado").style.display = "block";
 
     let meetTotal = meetPerson(duracao) * adultos + (400 / 2 * criancas);
     let beerTotal = beerPerson(duracao) * adultos;
