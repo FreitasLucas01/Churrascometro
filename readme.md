@@ -1,6 +1,3 @@
-<h2 align="center"> <img src="./assets/bigpig3.png" alt="" srcset="">
-<br> <br>
-
 <h1 align="center"> Churrascômetro </h1>
 
 <p align="center">
