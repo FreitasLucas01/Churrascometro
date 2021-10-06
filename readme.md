@@ -50,6 +50,7 @@ Cerveja - 1200ml por Pessoa + 6 horas - 2000ml<br>
 Refrigerante/água - 1000ml por pessoa + 6 horas 1500ml<br>
 
 Crianças valem por 0,5.</p> 
+<hr>
 <br>
 
 <p> Criado por Lucas Freitas 🖖🏽 | <a href="https://www.linkedin.com/in/lucasfreitas01/"> Faça contato comigo </a> <p> 
