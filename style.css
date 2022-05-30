@@ -182,9 +182,9 @@ p{
     }
 }
 
-@media screen and (max-width: 1500px){
+@media screen and (max-width: 1920px){
     #textDiv h2{
-        font-size: 2.8em;
+        font-size: 2.5em;
         font-weight: 900;
         color: #33353B;
         margin-bottom: 30px;
@@ -213,6 +213,13 @@ p{
         background-color: #DB6850;
         color: #FFF2E2;
         border: none;
+    }
+    #resultado h3{
+        font-size: 2.2rem;
+    }
+    #resultado p{
+        font-size: 1.8rem;
+        margin: 15px;
     }
 }
 
@@ -266,7 +273,7 @@ p{
         text-align: center;
     }
 
-    h3{
+    #resultado h3{
 
         font-size: 2.5em;
         font-weight: 900;
