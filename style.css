@@ -64,6 +64,7 @@ input{
 }
 
 img{
+    display: block;
     max-width: 100%;
 }
 
@@ -288,7 +289,6 @@ p{
 }
 
 @media screen and (max-width: 800px){
-
     #textDiv{
         margin-left: 110px;
         padding: 30px;
@@ -395,7 +395,15 @@ p{
     }
 }
 
-@media screen and (max-width: 400px){
+/* @media screen and (max-width: 400px){
+    #container{
+        width: 100%;
+        height: 95vh;
+        display: flex;
+        justify-content: space-between;
+        align-items: center; 
+        background-color:#F4D1C1;
+    }
     #textDiv{
         margin-left: 110px;
     }
@@ -444,4 +452,4 @@ p{
         font-weight: 400;
         margin: 5px;
     }
-}
+} */
