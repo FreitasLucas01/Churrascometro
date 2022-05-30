@@ -395,57 +395,6 @@ p{
     }
 }
 
-/* @media screen and (max-width: 400px){
-    #textDiv{
-        margin-left: 110px;
-    }
-
-    #textDiv h2{
-        font-size: 1.6em;
-        font-weight: 900;
-        color: #33353B;
-        text-align:center ;
-    }  
-    
-    input{
-        display: block;
-        max-width: 330px;
-        padding: 15px;
-        margin: 15px auto;
-        border-radius:20px;
-        border: solid 1px #C9C9C9;
-        font-size: 1.0em;
-        font-weight: 500;
-        color: #44474F;
-        outline: none;
-        text-align: center;
-        background-color: #FFF2E2;
-        border: none;
-    }
-
-    .button{
-        -webkit-appearance: none;
-        font-size: 1em;
-        max-width: 100px;
-        background-color: #DB6850;
-        color: #FFF2E2;
-        border: none;
-    }
-
-    #resultado h3{
-        margin-bottom: 20px;
-        font-size: 1.2em;
-        font-weight: 900;
-        color: #33353B;
-    }
-    
-    p{
-        font-size: 1.1em;
-        font-weight: 400;
-        margin: 5px;
-    }
-} */
-
 @media screen and (max-width: 400px){
     #textDiv{
         margin-left: 110px;
