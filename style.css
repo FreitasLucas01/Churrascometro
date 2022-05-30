@@ -223,7 +223,7 @@ p{
     }
 }
 
-@media screen and (max-width: 1199px){
+@media screen and (max-width: 1200px){
     #container{
         display: flex;
         flex-direction: column;
@@ -287,7 +287,7 @@ p{
     }
 }
 
-@media screen and (max-width: 768px){
+@media screen and (max-width: 800px){
 
     #textDiv{
         margin-left: 110px;
@@ -340,57 +340,7 @@ p{
     }
 }
 
-@media screen and (max-width: 540px){
-    #textDiv h2{
-        padding-bottom: 8px;
-        font-size: 1.6em;
-        font-weight: 900;
-        color: #33353B;
-        text-align:center ;
-    }  
-
-    #textDiv{
-        margin-left: 110px;
-    }
-
-    input{
-        display: block;
-        max-width: 270px;
-        padding: 8px;
-        margin: 12px auto;
-        border-radius:20px;
-        border: solid 1px #C9C9C9;
-        font-size: 1.1em;
-        font-weight: 500;
-        color: #44474F;
-        outline: none;
-        text-align: center;
-        border: none;
-    }
-    .button{
-        -webkit-appearance: none;
-        font-size: 1.1em;
-        max-width: 100px;
-        background-color: #DB6850;
-        color: #FFF2E2;
-        border: none;
-    }
-
-    h3{
-        margin-bottom: 20px;
-        font-size: 1.2em;
-        font-weight: 900;
-        color: #33353B;
-    }
-    
-    p{
-        font-size: 1.1em;
-        font-weight: 400;
-        margin: 5px;
-    }
-}
-
-@media screen and (max-width: 414px){
+@media screen and (max-width: 600px){
     #textDiv{
         margin-left: 110px;
 
@@ -428,11 +378,14 @@ p{
         border: none;
     }
 
-    h3{
+    #resultado h3{
         margin-bottom: 20px;
         font-size: 1.2em;
         font-weight: 900;
         color: #33353B;
+    }
+    #resultado p{
+        font-size: 1rem;
     }
     
     p{
@@ -442,7 +395,7 @@ p{
     }
 }
 
-@media screen and (max-width: 411px){
+/* @media screen and (max-width: 400px){
     #textDiv{
         margin-left: 110px;
     }
@@ -479,7 +432,7 @@ p{
         border: none;
     }
 
-    h3{
+    #resultado h3{
         margin-bottom: 20px;
         font-size: 1.2em;
         font-weight: 900;
@@ -491,9 +444,9 @@ p{
         font-weight: 400;
         margin: 5px;
     }
-}
+} */
 
-@media screen and (max-width: 360px){
+@media screen and (max-width: 400px){
     #textDiv{
         margin-left: 110px;
     }
@@ -530,7 +483,7 @@ p{
         border: none;
     }
 
-    h3{
+    #resultado h3{
         margin-bottom: 20px;
         font-size: 1.2em;
         font-weight: 900;
